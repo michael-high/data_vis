@@ -1,6 +1,6 @@
 ## Getting started
 1. Get the data csv from
-[kaggle.com covid-data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
+[kaggle.com covid-data](https://www.kaggle.com/nasa/kepler-exoplanet-search-results?select=cumulative.csv)
 
 2. Add it to the data folder
 
@@ -17,3 +17,7 @@
 
 3. Install Req:
     pip install -r requirements.txt
+
+4. Before running jupyter lab
+    *point the ipykernel to 
+    python --user --name "data_vis"
